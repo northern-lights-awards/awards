@@ -1,0 +1,42 @@
+{
+  "name": "Sweden",
+  "zoneID": "Europe/Stockholm",
+  "minimumVisibleKP": 3,
+  "gpsCoordinates": [
+    {
+      "latitude": 68.3617784,
+      "longitude": 18.7231331,
+      "description": "Abisko (SkyStation)"
+    },
+    {
+      "latitude": 67.8502171,
+      "longitude": 20.6020354,
+      "description": "Jukkasjärvi"
+    },
+    {
+      "latitude": 67.1588397,
+      "longitude": 22.6408178,
+      "description": "Tärendö"
+    },
+    {
+      "latitude": 65.7461869,
+      "longitude": 22.2320608,
+      "description": "Luleå (Pine Bay Lodge)"
+    },
+    {
+      "latitude": 68.0491399,
+      "longitude": 21.9894858,
+      "description": "Lannavaara (Aurora Mountain Lodge)"
+    },
+    {
+      "latitude": 66.1321608,
+      "longitude": 20.7811219,
+      "description": "Harads (Logger's Lodge)"
+    },
+    {
+      "latitude": 68.4060489,
+      "longitude": 18.6836659,
+      "description": "Björkliden"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+Norway had 32 days with observable northern lights, 62.745098039215684% of total dates
+per-month activity (month to a number of dates with higher kP): {
+	JANUARY : <[2010-01-13] days>,
+	DECEMBER : <[2010-12-15, 2010-12-13] days>,
+	NOVEMBER : <[2010-11-28, 2010-11-27, 2010-11-16, 2010-11-13, 2010-11-11] days>,
+	OCTOBER : <[2010-10-26, 2010-10-24, 2010-10-23, 2010-10-19, 2010-10-16, 2010-10-17, 2010-10-08] days>,
+	FEBRUARY : <[2010-02-26, 2010-02-25, 2010-02-14, 2010-02-15, 2010-02-08, 2010-02-02, 2010-02-03, 2010-02-01] days>,
+	MARCH : <[2010-03-30, 2010-03-28, 2010-03-20, 2010-03-18, 2010-03-17, 2010-03-14, 2010-03-06, 2010-03-07, 2010-03-04] days>
+}
+
+Magerøya [71.0268177,25.5872419]
+
+
+Iceland had 51 days with observable northern lights, 100.0% of total dates
+per-month activity (month to a number of dates with higher kP): {
+	JANUARY : <[2010-01-20, 2010-01-21, 2010-01-13] days>,
+	DECEMBER : <[2010-12-20, 2010-12-14, 2010-12-15, 2010-12-13] days>,
+	NOVEMBER : <[2010-11-28, 2010-11-27, 2010-11-16, 2010-11-17, 2010-11-14, 2010-11-15, 2010-11-12, 2010-11-13, 2010-11-10, 2010-11-11] days>,
+	FEBRUARY : <[2010-02-26, 2010-02-25, 2010-02-16, 2010-02-17, 2010-02-14, 2010-02-15, 2010-02-12, 2010-02-08, 2010-02-02, 2010-02-03, 2010-02-01] days>,
+	OCTOBER : <[2010-10-26, 2010-10-24, 2010-10-22, 2010-10-23, 2010-10-18, 2010-10-19, 2010-10-16, 2010-10-17, 2010-10-12, 2010-10-11, 2010-10-08] days>,
+	MARCH : <[2010-03-30, 2010-03-28, 2010-03-20, 2010-03-18, 2010-03-17, 2010-03-14, 2010-03-12, 2010-03-10, 2010-03-11, 2010-03-06, 2010-03-07, 2010-03-04] days>
+}
+
+Látrabjarg [65.502509,-24.531099]
+
+
+Sweden had 0 days with observable northern lights, 0.0% of total dates
+per-month activity (month to a number of dates with higher kP): {
+
+}
+
+Jukkasjärvi [67.8502171,20.6020354]
+
+
+Finland had 51 days with observable northern lights, 100.0% of total dates
+per-month activity (month to a number of dates with higher kP): {
+	JANUARY : <[2010-01-20, 2010-01-21, 2010-01-13] days>,
+	DECEMBER : <[2010-12-20, 2010-12-14, 2010-12-15, 2010-12-13] days>,
+	NOVEMBER : <[2010-11-28, 2010-11-27, 2010-11-16, 2010-11-17, 2010-11-14, 2010-11-15, 2010-11-12, 2010-11-13, 2010-11-10, 2010-11-11] days>,
+	FEBRUARY : <[2010-02-26, 2010-02-25, 2010-02-16, 2010-02-17, 2010-02-14, 2010-02-15, 2010-02-12, 2010-02-08, 2010-02-02, 2010-02-03, 2010-02-01] days>,
+	OCTOBER : <[2010-10-26, 2010-10-24, 2010-10-22, 2010-10-23, 2010-10-18, 2010-10-19, 2010-10-16, 2010-10-17, 2010-10-12, 2010-10-11, 2010-10-08] days>,
+	MARCH : <[2010-03-30, 2010-03-28, 2010-03-20, 2010-03-18, 2010-03-17, 2010-03-14, 2010-03-12, 2010-03-10, 2010-03-11, 2010-03-06, 2010-03-07, 2010-03-04] days>
+}
+
+Utsjoki [69.9091995,27.0280895]
+
+And the Winner is: Iceland, Congrats!
+Chances to see the Aurora were: 100.0
+With total number of clear sky nights vs high kP nights: 51 vs 51
+The best month: MARCH
+The best location: Látrabjarg [65.502509,-24.531099]

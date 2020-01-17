@@ -1,0 +1,52 @@
+{
+  "name": "Finland",
+  "zoneID": "Europe/Helsinki",
+  "minimumVisibleKP": 2.7,
+  "gpsCoordinates": [
+    {
+      "latitude": 68.6576814,
+      "longitude": 27.539628,
+      "description": "Ivalo"
+    },
+    {
+      "latitude": 68.9063524,
+      "longitude": 27.0280086,
+      "description": "Inari"
+    },
+    {
+      "latitude": 67.5800903,
+      "longitude": 24.2033773,
+      "description": "Levi-Yllas"
+    },
+    {
+      "latitude": 69.9091995,
+      "longitude": 27.0280895,
+      "description": "Utsjoki"
+    },
+    {
+      "latitude": 69.0443388,
+      "longitude": 20.803093,
+      "description": "Kilpisjärvi"
+    },
+    {
+      "latitude": 67.1540765,
+      "longitude": 26.9156755,
+      "description": "Luosto"
+    },
+    {
+      "latitude": 66.5099459,
+      "longitude": 25.7256963,
+      "description": "Rovaniemi (Arktikum Park)"
+    },
+    {
+      "latitude": 66.5148417,
+      "longitude": 25.7412638,
+      "description": "Rovaniemi (Koivusaari island)"
+    },
+    {
+      "latitude": 66.5000757,
+      "longitude": 25.8000186,
+      "description": "Rovaniemi (Ounasvaara fell)"
+    }
+  ]
+}

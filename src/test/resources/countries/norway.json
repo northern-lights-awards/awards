@@ -1,0 +1,92 @@
+{
+  "name": "Norway",
+  "zoneID": "Europe/Oslo",
+  "minimumVisibleKP": 2.5,
+  "gpsCoordinates": [
+    {
+      "latitude": 71.0268177,
+      "longitude": 25.5872419,
+      "description": "Magerøya"
+    },
+    {
+      "latitude": 69.180254,
+      "longitude": 20.009342,
+      "description": "Signaldalen"
+    },
+    {
+      "latitude": 69.801700,
+      "longitude": 18.767623,
+      "description": "Skulsfjord"
+    },
+    {
+      "latitude": 69.777291,
+      "longitude": 18.539680,
+      "description": "Grøtfjorden"
+    },
+    {
+      "latitude": 69.745277,
+      "longitude": 18.353179,
+      "description": "Brosmetinden"
+    },
+    {
+      "latitude": 69.694701,
+      "longitude": 18.618878,
+      "description": "Ersfjordbotn"
+    },
+    {
+      "latitude": 69.5077202,
+      "longitude": 17.5938936,
+      "description": "Segla Mt."
+    },
+    {
+      "latitude": 69.5190807,
+      "longitude": 17.4385711,
+      "description": "Mefjord Brygge"
+    },
+    {
+      "latitude": 69.489262,
+      "longitude": 17.334871,
+      "description": "Tungeneset"
+    },
+    {
+      "latitude": 69.423074,
+      "longitude": 17.504623,
+      "description": "Bergsbotn utsiktsplattform"
+    },
+    {
+      "latitude": 69.4179832,
+      "longitude": 17.16180649,
+      "description": "Hamn i Senja"
+    },
+    {
+      "latitude": 68.8557685,
+      "longitude": 16.337974,
+      "description": "Keipvatnet"
+    },
+    {
+      "latitude": 68.2690166,
+      "longitude": 13.5814738,
+      "description": "Unstad Beach"
+    },
+    {
+      "latitude": 68.2110335,
+      "longitude": 13.5051429,
+      "description": "Uttakleiv Beach"
+    },
+    {
+      "latitude": 68.188064,
+      "longitude": 13.550447,
+      "description": "Holandsmelen"
+    },
+    {
+      "latitude": 68.164255,
+      "longitude":  13.370020,
+      "description":  "Myrland beach"
+    },
+    {
+      "latitude": 67.9322715,
+      "longitude": 13.0932505,
+      "description": "Reine"
+    }
+  ]
+}

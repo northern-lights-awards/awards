@@ -1,0 +1,72 @@
+{
+  "name": "Iceland",
+  "zoneID": "Atlantic/Reykjavik",
+  "minimumVisibleKP": 2.7,
+  "gpsCoordinates": [
+    {
+      "latitude": 64.1647058,
+      "longitude": -22.0221264,
+      "description": "Grotta"
+    },
+    {
+      "latitude": 64.128848,
+      "longitude": -21.9196938,
+      "description": "Öskjuhlið"
+    },
+    {
+      "latitude": 63.459100,
+      "longitude": -19.364778,
+      "description": "DC3 crash site"
+    },
+    {
+      "latitude": 66.0177041,
+      "longitude": -16.505781,
+      "description": "Ásbyrgi Canyon"
+    },
+    {
+      "latitude": 64.2440386,
+      "longitude": -14.9648088,
+      "description": "Stokksnes"
+    },
+    {
+      "latitude": 64.940374,
+      "longitude": -23.306796,
+      "description": "Kirkjufell"
+    },
+    {
+      "latitude": 63.565862,
+      "longitude": -19.607531,
+      "description": "Seljavallalaug"
+    },
+    {
+      "latitude": 63.4183529,
+      "longitude": -19.0032252,
+      "description": "Vik"
+    },
+    {
+      "latitude": 63.958196,
+      "longitude": -21.423100,
+      "description": "Eldborgarhraun"
+    },
+    {
+      "latitude": 65.502509,
+      "longitude": -24.531099,
+      "description": "Látrabjarg"
+    },
+    {
+      "latitude": 64.077711,
+      "longitude": -16.228601,
+      "description": "Jokulsarlon"
+    },
+    {
+      "latitude": 65.606229,
+      "longitude": -20.635225,
+      "description": "Hvitserkur"
+    },
+    {
+      "latitude": 66.462161,
+      "longitude": -15.962304,
+      "description": "The Arctic Henge"
+    }
+  ]
+}
