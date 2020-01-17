@@ -1,5 +1,6 @@
 # Yearly "Best country for watching Northern Lights" Awards
 
+![](awards-template.jpg)
 All reports since 2010 could be found [here](reports).
 
 ## Countries taking part in a rally for 2019 award
