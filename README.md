@@ -1,4 +1,4 @@
-# Yearly "Best country for watching Northern Lights" Awards
+# Yearly "The Best Country for observing Northern Lights" Awards
 
 ![](awards-template.jpg)
 All reports since 2010 could be found [here](reports).
