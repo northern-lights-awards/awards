@@ -235,3 +235,9 @@ Until 2013, March was the best month to see the Lights in Iceland. Since than, t
 
 Since 2018, Finland became No.1 country for the Northern Lights. Maybe cause of the number of storms going through northern Atlantic, maybe climate changed?
 But Finland is the mainland, which means the temperature is low, all clouds eventually turning themselves into snow showers, that leads to clear skies.
+
+## Acknowledgement
+
+Solar activity and magnetic field yearly records provided by: [GFZ German Research Centre for GeoSciences](https://www.gfz-potsdam.de/en/home/).
+
+Historical Data provided by [DarkSky weather service](https://darksky.net/).
